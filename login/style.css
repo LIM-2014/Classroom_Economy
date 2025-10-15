@@ -5,3 +5,13 @@
     align-items: center;
     gap: 15px;
 }
+h2 {
+    text-align: center;
+}
+footer {
+    color: darkgray;
+    text-align: center;
+}
+#a-gray {
+    color: darkgray;
+}
